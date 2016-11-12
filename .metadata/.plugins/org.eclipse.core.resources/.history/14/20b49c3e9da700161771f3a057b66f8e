@@ -1,0 +1,30 @@
+'''
+Created on 10 Nov 2016
+
+@author: Erick
+'''
+
+
+def checkPrime(s, prime):
+    for prime in notPrimeList:
+        notPrimeList
+        
+    
+    return False;
+
+
+def isPrime(num):
+    notPrime = []
+    
+    s = 2
+    while s < num:
+        checkPrime(s, notPrime);
+        s = s + 1
+    
+    isPrime = False;
+    
+    print(isPrime);
+
+
+if __name__ == '__main__':
+    isPrime(100);

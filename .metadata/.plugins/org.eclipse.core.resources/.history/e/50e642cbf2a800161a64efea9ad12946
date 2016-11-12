@@ -1,0 +1,10 @@
+def main(range):
+    answer = []
+    i=0
+    while i<range:
+        
+    print(answer)
+
+
+if __name__ == '__main__':
+    main(10)
