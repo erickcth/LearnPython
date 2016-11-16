@@ -1,0 +1,15 @@
+MODULES_MANAGER_V2
+concrt140|C:\Users\Erick\Applications\conda\learnpython\concrt140.dll
+msvcp140|C:\Users\Erick\Applications\conda\learnpython\msvcp140.dll
+python35|C:\Users\Erick\Applications\conda\learnpython\python35.dll
+src.__init__|C:\Users\Erick\Applications\conda\learnpython\src\__init__.py
+src.test.PrimeValidator|C:\Users\Erick\Applications\conda\learnpython\src\test\PrimeValidator.py
+src.test.__init__|C:\Users\Erick\Applications\conda\learnpython\src\test\__init__.py
+src.test.classes_finished|C:\Users\Erick\Applications\conda\learnpython\src\test\classes_finished.py
+src.test.projecteuler.Problem1|C:\Users\Erick\Applications\conda\learnpython\src\test\projecteuler\Problem1.py
+src.test.projecteuler.Problem2|C:\Users\Erick\Applications\conda\learnpython\src\test\projecteuler\Problem2.py
+src.test.projecteuler.__init__|C:\Users\Erick\Applications\conda\learnpython\src\test\projecteuler\__init__.py
+ucrtbase|C:\Users\Erick\Applications\conda\learnpython\ucrtbase.dll
+vccorlib140|C:\Users\Erick\Applications\conda\learnpython\vccorlib140.dll
+vcomp140|C:\Users\Erick\Applications\conda\learnpython\vcomp140.dll
+vcruntime140|C:\Users\Erick\Applications\conda\learnpython\vcruntime140.dll

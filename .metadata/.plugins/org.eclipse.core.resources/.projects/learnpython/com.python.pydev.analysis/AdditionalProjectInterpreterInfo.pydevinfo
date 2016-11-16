@@ -1,0 +1,32 @@
+-- VERSION_4
+-- START DISKCACHE_2
+C:\Users\Erick\Applications\workspace\LearnPython\.metadata\.plugins\org.eclipse.core.resources\.projects\learnpython\com.python.pydev.analysis\v2_indexcache
+src.test.classes_finished|1478819816475909000|C:\Users\Erick\Applications\conda\learnpython\src\test\classes_finished.py
+src.test.projecteuler.Problem2|1478984120244581000|C:\Users\Erick\Applications\conda\learnpython\src\test\projecteuler\Problem2.py
+src.test.PrimeValidator|1478986944596124000|C:\Users\Erick\Applications\conda\learnpython\src\test\PrimeValidator.py
+src.test.projecteuler.Problem1|1478970991480736000|C:\Users\Erick\Applications\conda\learnpython\src\test\projecteuler\Problem1.py
+src.__init__|1478816475616659000|C:\Users\Erick\Applications\conda\learnpython\src\__init__.py
+src.test.__init__|1478816475622659000|C:\Users\Erick\Applications\conda\learnpython\src\test\__init__.py
+src.test.projecteuler.__init__|1478907042730848000|C:\Users\Erick\Applications\conda\learnpython\src\test\projecteuler\__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+1=src.test.classes_finished
+2=src.test.PrimeValidator
+4=src.test.projecteuler.Problem2
+3=src.test.projecteuler.Problem1
+5=myClass
+6=anotherClass
+-- END DICTIONARY
+-- START TREE 1
+5
+ano|1|anotherClass!9@
+che|1|checkPrime!18@
+isp|1|isPrime!18@
+mai|3|main!26@main!10@main!34@
+myc|1|myClass!9@
+-- END TREE
+-- START TREE 2
+1
+met|4|method2!5&10@method2!6&10@method1!5&10@method1!6&10@
+-- END TREE
